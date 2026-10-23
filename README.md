@@ -2,7 +2,7 @@
 
 A full-stack real-time messaging app built with the MERN stack and Socket.IO. Users can sign up, chat one-to-one with instant delivery, see who is online, share images, and use an in-chat AI assistant that summarizes conversations, suggests replies, translates and rewrites text, and answers questions about the chat.
 
-> Screenshot: add an image of the app here, for example `![App screenshot](docs/screenshot.png)`
+![App screenshot](AppScreenshot.png)
 
 ## Features
 
